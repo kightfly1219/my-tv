@@ -47,7 +47,7 @@ object TVList {
                     "2022576501",
                     ProgramType.Y_PROTO,
                     true,
-                    mustToken = true
+                    mustToken = false
                 ),
                 TV(
                     0,
@@ -86,7 +86,7 @@ object TVList {
                     "2013693901",
                     ProgramType.Y_PROTO,
                     true,
-                    mustToken = true
+                    mustToken = false
                 ),
                 TV(
                     0,
